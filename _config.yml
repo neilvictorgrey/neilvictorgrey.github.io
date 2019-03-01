@@ -4,8 +4,8 @@ highlighter:      rouge
 
 # Setup
 title:            Neil Grey
-tagline:          'One Day At A Time'
-description:      'Thoughts on Learning & Making.'
+tagline:          ''
+description:      'Balancing full-time learning with full-time work.'
 url:              https://neilvictorgrey.github.io
 baseurl:          ''
                   # the optional subpath of your site, e.g. "/blog"
