@@ -1,13 +1,7 @@
 ---
 layout: page
-title: About
+title: Plan
 sidebar_link: true
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it
-  for your own use upon downloading. Carry on!
-</p>
-
-To make pages show up in the sidebar, add `sidebar_link: true` to the front
-matter.
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr14wWDQzQRSvn4p?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe> 
